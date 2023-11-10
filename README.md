@@ -9,6 +9,7 @@
   <p>신촌 연합 IT 창업 동아리: <a href="https://github.com/CEOS-Developers">CEOS 17기 백엔드</a> <sub/>(2023.03 ~ 2023.08)<sub/></br>
   <p>심리 상담사 업무 보조를 위한 All-in-one서비스 <a href="https://github.com/TherapEase-CEOS/TherapEase-BE">TherapEase</a> 백엔드 개발 <sub/>(2023.06 ~ 2023.08)<sub/></br>
   <p>이화여대 머신러닝&데이터분석 동아리: <a href="https://github.com/Hwang-Jaeryeong/5th-Basic-ML">EURON 5기</a> <sub/>(2023.09 ~ )<sub/></br>
+  <p>EWHA CVLAB 컴퓨터비전 연구실 인턴 <sub/>(2023.11 ~ )<sub/></br>
   
 <br/>
   
