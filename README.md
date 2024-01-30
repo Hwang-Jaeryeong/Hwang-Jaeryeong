@@ -10,7 +10,7 @@
   <p>심리 상담사 업무 보조를 위한 All-in-one서비스 <a href="https://github.com/TherapEase-CEOS/TherapEase-BE">TherapEase</a> 백엔드 개발 <sub/>(2023.06 ~ 2023.08)<sub/></br>
   <p>이화여대 머신러닝&데이터분석 동아리: <a href="https://github.com/Hwang-Jaeryeong/5th-Basic-ML">EURON 5기</a> <sub/>(2023.09 ~ )<sub/></br>
   <p>EWHA CVLAB 컴퓨터비전 연구실 단기 인턴 <sub/>(2023.11 ~ 12)<sub/></br>
-  <p>KAIST Madcamp <sub/>(2023.12 ~ 2024.01)<sub/></br>
+  <p>KAIST Madcamp : <a href="https://github.com/Hwang-Jaeryeong/madcamp_week1">DevDiary</a> <a href="https://github.com/Hwang-Jaeryeong/madcamp_week2_BE">BrearFirst</a> <sub/>(2023.12 ~ 2024.01)<sub/></br>
   
 <br/>
   
