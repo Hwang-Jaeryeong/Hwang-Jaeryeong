@@ -22,3 +22,6 @@
 <a href="https://www.notion.so/Jryeong-f80011763fcb4e83bea539401b068df8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/jryexng/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
+
+## Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jryeong67)](https://solved.ac/jryeong67/)
