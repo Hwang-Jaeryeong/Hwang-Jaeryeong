@@ -14,6 +14,8 @@
   <p>KAIST 몰입캠프 참여 <sub/>(2024.01)<sub/></br>
   <p>부트캠프형 동아리 CODE-IT 백엔드 운영진 <sub/>(2024.03 ~ now)<sub/></br>
   <p>인공지능 연합 프로젝트팀 <a href="https://deepdaiv.oopy.io/">Deep daiv</a> 2024 봄 기수(Medical AI) / 여름 기수(Deep Learning)<sub/>(2024.04 ~ now)<sub/></br>
+  <p>GDSC(Google Developer Student Club Ewha 6기) 개발자 커뮤니티 AI core Member<sub/>(2024.09 ~ now)<sub/></br>
+  <p>2024 오픈소스 컨트리뷰션 아카데미(체험형) - Git 활용 및 LLM JOURNEY with OLLAMA<sub/>(2024.09 ~ now)<sub/></p>
 
 
 ## 🔍 Project
