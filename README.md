@@ -13,9 +13,8 @@
   <p>EWHA CVLAB 컴퓨터비전 연구실 단기 인턴 <sub/>(2023.11 ~ 12)<sub/></br>
   <p>KAIST 몰입캠프 참여 <sub/>(2024.01)<sub/></br>
   <p>부트캠프형 동아리 CODE-IT 백엔드 운영진 <sub/>(2024.03 ~ now)<sub/></br>
-  <p>인공지능 연합 프로젝트팀 <a href="https://deepdaiv.oopy.io/">Deep daiv</a> 2024 봄 기수(Medical AI) / 여름 기수(Deep Learning)<sub/>(2024.04 ~ now)<sub/></br>
+  <p>인공지능 연합 프로젝트팀 <a href="https://deepdaiv.oopy.io/">Deep daiv</a> 2024 봄 기수(Medical AI) / 여름 기수(Deep Learning)<sub/>(2024.04 ~ 2024.10)<sub/></br>
   <p>GDSC(Google Developer Student Club Ewha 6기) 개발자 커뮤니티 AI core Member<sub/>(2024.09 ~ now)<sub/></br>
-  <p>2024 오픈소스 컨트리뷰션 아카데미(체험형) - Git 활용 및 LLM JOURNEY with OLLAMA<sub/>(2024.09 ~ now)<sub/></p>
 
 
 ## 🔍 Project
@@ -23,6 +22,7 @@
   <p>심리 상담사 업무 보조를 위한 All-in-one서비스 <a href="https://github.com/TherapEase-CEOS/TherapEase-BE">TherapEase</a> 백엔드 개발 <sub/>(2023.06 ~ 2023.08)<sub/></br>
   <p>KAIST Madcamp (4개의 project) : <a href="https://github.com/Hwang-Jaeryeong/madcamp_week1">DevDiary</a><a> / </a><a href="https://github.com/Hwang-Jaeryeong/madcamp_week2_BE">BrearFirst</a><a> / </a><a href="https://github.com/Hwang-Jaeryeong/madcamp_week3_BE">HAVEN</a><a> / </a><a href="https://github.com/PitchBlend-football">PitchBlend</a> <sub/>(2024.01)<sub/></br>
   <p>U-Net 기반 뇌 종양 이미지 분할 <a href="https://github.com/Hwang-Jaeryeong/BU-Net_Pytorch_Implementation"> 논문 구현 프로젝트</p>
+  <p>도로 교통 위반 킥보드 위험상황 디텍션 <a href="https://github.com/Hwang-Jaeryeong/Kickboard-Detection"> 안전운전 하세요! </p>
   
 <br/>
   
