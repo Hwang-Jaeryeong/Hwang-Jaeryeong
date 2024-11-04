@@ -25,15 +25,60 @@
   <p>도로 교통 위반 킥보드 위험상황 디텍션 <a href="https://github.com/Hwang-Jaeryeong/Kickboard-Detection"> 안전운전 하세요! </p>
   
 <br/>
+
+<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">🍀Programming language</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  
+</p>
+<h3 align="center">🍀Framework</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+</p>
+
+<h3 align="center">🍀IDE</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
+</p>
+
+<h3 align="center">🍀Database</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+</p>
+
+<h3 align="center">🍀Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+</p>
+
+<h3 align="center">🍀Deploy</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> 
+  
+</p>
   
 <br/>
   
 ## 🌱 
-- 📫 How to reach me: jryeong67@naver.com
-  <br/><br/>
+<p> 📫 How to reach me: jryeong67@naver.com</p>
+<p>click! ↓ </p>
+<a href="https://chunsikk.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+</a>
 <a href="https://www.notion.so/Jryeong-f80011763fcb4e83bea539401b068df8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/jryexng/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</div>
+
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jryeong67)](https://solved.ac/jryeong67/)
