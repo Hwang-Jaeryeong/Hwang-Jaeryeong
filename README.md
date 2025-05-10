@@ -15,7 +15,7 @@
   <p>부트캠프형 동아리 CODE-IT 백엔드 운영진 <sub/>(2024.03 ~ 2025.02)<sub/></br>
   <p>인공지능 연합 프로젝트팀 <a href="https://deepdaiv.oopy.io/">Deep daiv</a> 2024 봄 기수(Medical AI) / 여름 기수(Deep Learning)<sub/>(2024.04 ~ 2024.10)<sub/></br>
   <p>GDSC(Google Developer Student Club Ewha 6기) 개발자 커뮤니티 AI core Member<sub/>(2024.09 ~ now)<sub/></br>
-  <p>한국연구재단 R&D: AI 윤리교육을 위한 대화형 게임 플랫폼 설계 및 효과성 검증 (백엔드·AI 팀원) <sub/>(2024.05 ~ now)<sub/><br></br>
+  <p>한국연구재단 R&D: AI 윤리교육을 위한 대화형 게임 플랫폼 설계 및 효과성 검증 (백엔드/AI) <sub/>(2024.05 ~ now)<sub/><br></br>
 
 ## 🔍 Project
   <p>이대 맛집 소개 사이드 프로젝트: <a href="https://github.com/comong22">커몽</a> 프론트엔드 개발 <sub/>(2022.10 ~ 2022.11)<sub/></br>
@@ -23,6 +23,7 @@
   <p>KAIST Madcamp (4개의 project) : <a href="https://github.com/Hwang-Jaeryeong/madcamp_week1">DevDiary</a><a> / </a><a href="https://github.com/Hwang-Jaeryeong/madcamp_week2_BE">BrearFirst</a><a> / </a><a href="https://github.com/Hwang-Jaeryeong/madcamp_week3_BE">HAVEN</a><a> / </a><a href="https://github.com/PitchBlend-football">PitchBlend</a> <sub/>(2024.01)<sub/></br>
   <p>U-Net 기반 뇌 종양 이미지 분할 <a href="https://github.com/Hwang-Jaeryeong/BU-Net_Pytorch_Implementation"> 논문 구현 프로젝트</p>
   <p>도로 교통 위반 킥보드 위험상황 디텍션 <a href="https://github.com/Hwang-Jaeryeong/Kickboard-Detection"> 안전운전 하세요! </p>
+  <p>[컴퓨터공학과 졸업 프로젝트] 블록 UI 기반 CNN 딥러닝 모델 제작 플랫폼<a href="https://github.com/highway-bestdriver"> BuildX </p>
   
 <br/>
 <h3 align="center">🍀Programming language</h3>
