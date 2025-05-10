@@ -4,18 +4,18 @@
 
 ## 👩‍💻 Career
   <p>이화여자대학교 컴퓨터공학과 <sub/>(2021.03 ~ )<sub/></br>
-  <p>이화여자대학교 심리학과 복수전공 <sub/>(2022.09 ~ )<sub/></br> 
+  <p>이화여자대학교 심리학과 복수전공 <sub/>(2022.09 ~ )<sub/></br>
+  <p>(주)쿼카크루 겨울방학 인턴십 - 연픽 프로덕트팀 / BE engineer<sub/>(2024.01 ~ 2024.02)<sub/><br></br>
 
 
 ## ✨ Experience
   <p>신촌 연합 IT 창업 동아리: <a href="https://github.com/CEOS-Developers">CEOS 17기 백엔드</a> <sub/>(2023.03 ~ 2023.08)<sub/></br>
   <p>이화여대 머신러닝&데이터분석 동아리: <a href="https://github.com/Hwang-Jaeryeong/5th-Basic-ML">EURON 5기</a> <sub/>(2023.09 ~ )<sub/></br>
-  <p>EWHA CVLAB 컴퓨터비전 연구실 단기 인턴 <sub/>(2023.11 ~ 12)<sub/></br>
   <p>KAIST 몰입캠프 참여 <sub/>(2024.01)<sub/></br>
   <p>부트캠프형 동아리 CODE-IT 백엔드 운영진 <sub/>(2024.03 ~ 2025.02)<sub/></br>
   <p>인공지능 연합 프로젝트팀 <a href="https://deepdaiv.oopy.io/">Deep daiv</a> 2024 봄 기수(Medical AI) / 여름 기수(Deep Learning)<sub/>(2024.04 ~ 2024.10)<sub/></br>
   <p>GDSC(Google Developer Student Club Ewha 6기) 개발자 커뮤니티 AI core Member<sub/>(2024.09 ~ now)<sub/></br>
-
+  <p>한국연구재단 R&D: AI 윤리교육을 위한 대화형 게임 플랫폼 설계 및 효과성 검증 (백엔드·AI 팀원) <sub/>(2024.05 ~ now)<sub/><br></br>
 
 ## 🔍 Project
   <p>이대 맛집 소개 사이드 프로젝트: <a href="https://github.com/comong22">커몽</a> 프론트엔드 개발 <sub/>(2022.10 ~ 2022.11)<sub/></br>
@@ -25,8 +25,6 @@
   <p>도로 교통 위반 킥보드 위험상황 디텍션 <a href="https://github.com/Hwang-Jaeryeong/Kickboard-Detection"> 안전운전 하세요! </p>
   
 <br/>
-
-<h3 align="center">📚 Tech Stack 📚</h3>
 <h3 align="center">🍀Programming language</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
@@ -41,7 +39,7 @@
 
 <h3 align="center">🍀IDE</h3>
 <p align="center">
-   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
 </p>
 
