@@ -23,7 +23,7 @@
   <p>U-Net 기반 뇌 종양 이미지 분할 <a href="https://github.com/Hwang-Jaeryeong/BU-Net_Pytorch_Implementation"> 논문 구현 프로젝트</p>
   <p>도로 교통 위반 킥보드 위험상황 디텍션 <a href="https://github.com/Hwang-Jaeryeong/Kickboard-Detection"> 안전운전 하세요! </p>
   <p>[컴퓨터공학과 졸업 프로젝트] 블록 UI 기반 CNN 딥러닝 모델 제작 플랫폼<a href="https://github.com/highway-bestdriver"> BuildX (BE/AI)</p>
-  <p>[한국연구재단 R&D 프로젝트] AI 윤리교육을 위한 대화형 게임 플랫폼 설계 및 효과성 검증 (백엔드/AI) </p>
+  <p>[한국연구재단 R&D 프로젝트] AI 윤리교육을 위한 대화형 게임 플랫폼 설계 및 효과성 검증 <a href="https://github.com/ai-ethics-platform"> Organizations </a>  / <a href="https://www.dilemmai-idl.com"> DILEMMAI 최종 사이트</a></p>
   
 <br/>
 <h3 align="center">🍀Programming language</h3>
