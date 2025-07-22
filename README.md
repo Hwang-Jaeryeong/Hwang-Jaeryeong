@@ -13,8 +13,8 @@
   <p>KAIST 몰입캠프 참여 <sub/>(2024.01)<sub/></br>
   <p>부트캠프형 동아리 CODE-IT 백엔드 운영진 <sub/>(2024.03 ~ 2025.02)<sub/></br>
   <p>인공지능 연합 프로젝트팀 <a href="https://deepdaiv.oopy.io/">Deep daiv</a> 2024 봄 기수(Medical AI) / 여름 기수(Deep Learning)<sub/>(2024.04 ~ 2024.10)<sub/></br>
-  <p>GDSC(Google Developer Student Club Ewha 6기) 개발자 커뮤니티 AI core Member<sub/>(2024.09 ~ now)<sub/></br>
-  <p>한국연구재단 R&D: 백엔드/AI 개발자 <sub/>(2024.05 ~ now)<sub/><br></br>
+  <p>GDSC(Google Developer Student Club Ewha 6기) 개발자 커뮤니티 AI core Member<sub/>(2024.09 ~ 2025.06)<sub/></br>
+  <p>한국연구재단 R&D: 백엔드/AI 개발자 <sub/>(2025.05 ~ now)<sub/><br></br>
 
 ## 🔍 Project
   <p>심리 상담사 업무 보조를 위한 All-in-one서비스 <a href="https://github.com/TherapEase-CEOS/TherapEase-BE">TherapEase</a> 백엔드 개발 <sub/>(2023.06 ~ 2023.08)<sub/></br>
