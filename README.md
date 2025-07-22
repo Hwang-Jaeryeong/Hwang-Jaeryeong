@@ -25,12 +25,6 @@
   <p>[한국연구재단 R&D 프로젝트] AI 윤리교육을 위한 대화형 게임 플랫폼 설계 및 효과성 검증 : <a href="https://github.com/ai-ethics-platform"> Organizations </a>  / <a href="https://www.dilemmai-idl.com"> DILEMMAI 최종 사이트</a></p>
   
 <br/>
-<h3 align="center">🍀Programming language</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  
 </p>
 <h3 align="center">🍀Framework</h3>
 <p align="center">
@@ -45,7 +39,7 @@
 
 <h3 align="center">🍀Database</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </p>
 
 <h3 align="center">🍀Tools</h3>
@@ -54,14 +48,12 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 </p>
 
 <h3 align="center">🍀Deploy</h3>
 <p align="center">
    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=AWS&logoColor=white">
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> 
   
 </p>
@@ -70,12 +62,6 @@
   
 ## 🌱 
 <p> 📫 How to reach me: jryeong67@naver.com</p>
-<p>click! ↓ </p>
-<a href="https://chunsikk.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
-</a>
-<a href="https://www.notion.so/Jryeong-f80011763fcb4e83bea539401b068df8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://www.instagram.com/jryexng/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 ## Algorithm
