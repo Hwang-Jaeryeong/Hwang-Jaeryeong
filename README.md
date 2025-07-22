@@ -17,7 +17,6 @@
   <p>한국연구재단 R&D: 백엔드/AI 개발자 <sub/>(2024.05 ~ now)<sub/><br></br>
 
 ## 🔍 Project
-  <p>이대 맛집 소개 사이드 프로젝트: <a href="https://github.com/comong22">커몽</a> 프론트엔드 개발 <sub/>(2022.10 ~ 2022.11)<sub/></br>
   <p>심리 상담사 업무 보조를 위한 All-in-one서비스 <a href="https://github.com/TherapEase-CEOS/TherapEase-BE">TherapEase</a> 백엔드 개발 <sub/>(2023.06 ~ 2023.08)<sub/></br>
   <p>KAIST Madcamp (4개의 project) : <a href="https://github.com/Hwang-Jaeryeong/madcamp_week1">DevDiary</a><a> / </a><a href="https://github.com/Hwang-Jaeryeong/madcamp_week2_BE">BrearFirst</a><a> / </a><a href="https://github.com/Hwang-Jaeryeong/madcamp_week3_BE">HAVEN</a><a> / </a><a href="https://github.com/PitchBlend-football">PitchBlend</a> <sub/>(2024.01)<sub/></br>
   <p>U-Net 기반 뇌 종양 이미지 분할 <a href="https://github.com/Hwang-Jaeryeong/BU-Net_Pytorch_Implementation"> 논문 구현 프로젝트</p>
