@@ -6,6 +6,7 @@
   <p>이화여자대학교 컴퓨터공학과 <sub/>(2021.03 ~ )<sub/></br>
   <p>이화여자대학교 심리학과 복수전공 <sub/>(2022.09 ~ )<sub/></br>
   <p>(주)쿼카크루 겨울방학 인턴십 - 연픽 프로덕트팀 BE engineer<sub/>(2024.01 ~ 2024.02)<sub/><br></br>
+  <p>한국연구재단 R&D: 백엔드/AI 개발자 <sub/>(2025.05 ~ now)<sub/><br></br>
 
 
 ## ✨ Experience
@@ -14,7 +15,6 @@
   <p>부트캠프형 동아리 CODE-IT 백엔드 운영진 <sub/>(2024.03 ~ 2025.02)<sub/></br>
   <p>인공지능 연합 프로젝트팀 <a href="https://deepdaiv.oopy.io/">Deep daiv</a> 2024 봄 기수(Medical AI) / 여름 기수(Deep Learning)<sub/>(2024.04 ~ 2024.10)<sub/></br>
   <p>GDSC(Google Developer Student Club Ewha 6기) 개발자 커뮤니티 AI core Member<sub/>(2024.09 ~ 2025.06)<sub/></br>
-  <p>한국연구재단 R&D: 백엔드/AI 개발자 <sub/>(2025.05 ~ now)<sub/><br></br>
 
 ## 🔍 Project
   <p>심리 상담사 업무 보조를 위한 All-in-one서비스 <a href="https://github.com/TherapEase-CEOS/TherapEase-BE">TherapEase</a> 백엔드 개발 <sub/>(2023.06 ~ 2023.08)<sub/></br>
