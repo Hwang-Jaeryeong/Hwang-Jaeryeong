@@ -18,7 +18,7 @@
 
 ## 🔍 Project
   <p>심리 상담사 업무 보조를 위한 All-in-one서비스 <a href="https://github.com/TherapEase-CEOS/TherapEase-BE">TherapEase</a> 백엔드 개발 <sub/>(2023.06 ~ 2023.08)<sub/></br>
-  <p>KAIST Madcamp (4개의 project) : <a href="https://github.com/Hwang-Jaeryeong/madcamp_week1">DevDiary</a><a> / </a><a href="https://github.com/Hwang-Jaeryeong/madcamp_week2_BE">BrearFirst</a><a> / </a><a href="https://github.com/Hwang-Jaeryeong/madcamp_week3_BE">HAVEN</a><a> / </a><a href="https://github.com/PitchBlend-football">PitchBlend</a> <sub/>(2024.01)<sub/></br>
+  <p>KAIST Madcamp (4개의 project) : <a href="https://github.com/Hwang-Jaeryeong/madcamp_week1">DevDiary</a><a> / </a><a href="https://github.com/Hwang-Jaeryeong/madcamp_week2_BE">BrearFirst</a><a> / </a><a href="https://github.com/Hwang-Jaeryeong/madcamp_week3_BE">HAVEN</a><a> / </a><a href="https://github.com/PitchBlend-football/madcamp_week4_BE">PitchBlend</a> <sub/>(2024.01)<sub/></br>
   <p>U-Net 기반 뇌 종양 이미지 분할 <a href="https://github.com/Hwang-Jaeryeong/BU-Net_Pytorch_Implementation"> 논문 구현 프로젝트</p>
   <p>도로 교통 위반 킥보드 위험상황 디텍션 <a href="https://github.com/Hwang-Jaeryeong/Kickboard-Detection"> 안전운전 하세요! </p>
   <p>[컴퓨터공학과 졸업 프로젝트] 블록 UI 기반 CNN 딥러닝 모델 제작 플랫폼<a href="https://github.com/highway-bestdriver"> BuildX (BE/AI) -> 캡스톤 우수상 수상</p>
