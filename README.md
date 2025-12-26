@@ -14,6 +14,12 @@
   <p>인공지능 연합 프로젝트팀 <a href="https://deepdaiv.oopy.io/">Deep daiv</a> 2024 봄 기수(Medical AI) / 여름 기수(Deep Learning)<sub/>(2024.04 ~ 2024.10)<sub/></br>
   <p>GDSC(Google Developer Student Club 6기) 개발자 커뮤니티 AI Member<sub/>(2024.09 ~ 2025.06)<sub/><br></br>
 
+## 📝 Publications
+
+<p>UIST 2025 (ACM SIGCHI): <a href="https://programs.sigchi.org/uist/2025/program/content/209493">Your Thoughtful Opponent: Embracing Cognitive Conflict with Peer Agent</a>
+<br>(인지적 갈등 기반 Peer Agent 상호작용 연구)
+<br></br>
+
 ## 🔍 Project
   <p>심리 상담사 업무 보조를 위한 All-in-one서비스 <a href="https://github.com/TherapEase-CEOS/TherapEase-BE">TherapEase</a> 백엔드 개발 <sub/>(2023.06 ~ 2023.08)<sub/></br>
   <p>KAIST Madcamp (4개의 project) : <a href="https://github.com/Hwang-Jaeryeong/madcamp_week1">DevDiary</a><a> / </a><a href="https://github.com/Hwang-Jaeryeong/madcamp_week2_BE">BrearFirst</a><a> / </a><a href="https://github.com/Hwang-Jaeryeong/madcamp_week3_BE">HAVEN</a><a> / </a><a href="https://github.com/PitchBlend-football/madcamp_week4_BE">PitchBlend</a> <sub/>(2024.01)<sub/></br>
