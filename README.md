@@ -27,40 +27,8 @@
   <p>도로 교통 위반 킥보드 위험상황 디텍션 <a href="https://github.com/Hwang-Jaeryeong/Kickboard-Detection"> 안전운전 하세요! </p>
   <p>[컴퓨터공학과 졸업 프로젝트] 블록 UI 기반 CNN 딥러닝 모델 제작 플랫폼<a href="https://github.com/highway-bestdriver"> BuildX (BE/AI) -> 캡스톤 우수상 수상</p>
   <p>[한국연구재단 R&D 프로젝트] AI 윤리교육을 위한 대화형 게임 플랫폼 설계 및 효과성 검증 : <a href="https://github.com/ai-ethics-platform"> Organizations </a>  / <a href="https://www.dilemmai.org"> DILEMMAI 최종 사이트</a></p>
-  
-<br/>
-</p>
-<h3 align="center">🍀Framework</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-092E20?style=for-the-badge&logo=FastAPI&logoColor=white">
-</p>
 
-<h3 align="center">🍀IDE</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
-</p>
 
-<h3 align="center">🍀Database</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-</p>
-
-<h3 align="center">🍀Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-</p>
-
-<h3 align="center">🍀Deploy</h3>
-<p align="center">
-   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> 
-  
-</p>
   
 <br/>
   
